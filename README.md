@@ -1,7 +1,7 @@
 # System-Requirement-Specification-for-a-Pharmaceutical-Company
 The PSP system is a structured digital platform designed to support and manage patient counselling for chronic and specialty conditions. The system enables healthcare counsellors and administrators to enroll patients, track their counselling schedules, monitor adverse events, and generate reports.
 view the FUll SRS: https://1drv.ms/b/c/b450bede2bbd16bc/Ef5QoA2dVnNPvsMC_izTpwUBrIBh8b9fTahqs3WGyiscsQ?e=UIwj1P
-
+## About the SRS
 ### Disease & Medicine Setup
 Admins can define diseases, link medicines, and create disease-specific counselling schedules. Each patient is assigned a unique ID based on disease type (e.g., CHF 1234).
 ### Patient Enrollment
